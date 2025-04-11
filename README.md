@@ -39,7 +39,7 @@
 ## 📬 Contact
 
 📧 pedrohteixeira.ds@gmail.com  
-🔗 [LinkedIn - Pedro Teixeira](https://www.linkedin.com/in/pedro-teixeira-3534a3268/)
+🔗 [LinkedIn - Pedro Teixeira](https://www.linkedin.com/in/pedro-teixeira-3534a3268)
 
 ---
 
