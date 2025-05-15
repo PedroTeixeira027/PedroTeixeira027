@@ -36,6 +36,18 @@
 
 ---
 
+## 📈 Top Languages
+
+<p align="center">
+  <!-- By bytes of code across all repos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTeixeira027&layout=compact&theme=radical" alt="Top Langs by Repo"/>
+
+  <!-- By total commits using GitHub Readme Stats fork (if needed in future) -->
+  <!-- A versão oficial da API não mostra por commits diretamente, mas essa parte é mais simbólica -->
+</p>
+
+---
+
 ## 📬 Contact
 
 📧 pedrohteixeira.ds@gmail.com  
